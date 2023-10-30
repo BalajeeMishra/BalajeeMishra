@@ -1,20 +1,18 @@
-- 👋 Hi, I’m @BalajeeMishra
+- 👋 Hi, I’m BalajeeMishra
 
-# I am running Software Giant - Your Digital Partner 🚀
-
-Hey there! 👋 We're Software Giant, your go-to agency for all things digital. Here's what we do:
+# I am running an agency Software Giant - Your Digital Partner 🚀
 
 ## Our Expertise:
 
 🌐 **Web & Mobile Application Design and Development**: We create stunning, user-friendly web and mobile apps that'll leave your users in awe.
 
-🎨 **Graphics Designing**: Our creative wizards craft captivating visuals that breathe life into your brand.
+🎨 **Graphics Designing**: Our creative team makes eye-catching visuals that bring your brand to life.
 
 🖌️ **UI/UX**: We're obsessed with delivering seamless and delightful user experiences. Expect nothing less than perfection!
 
 🎥 **Video Editing**: From concept to post-production, we make videos that tell your story beautifully.
 
-✍️ **Content Creation**: Our wordsmiths and visual artists collaborate to produce content that resonates with your audience.
+✍️ **Content Creation**: At Software Giant, our writers and artists join forces to craft content that truly connects with your audience.
 
 ## Our Team:
 
