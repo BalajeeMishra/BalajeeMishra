@@ -1,6 +1,6 @@
 - 👋 Hi, I’m BalajeeMishra
 
-# I am running an agency Software Giant - Your Digital Partner 🚀
+ I am running an agency Software Giant - Your Digital Partner 🚀
 
 ## Our Expertise:
 
